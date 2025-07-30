@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\k9lil\\Desktop\\Github\\full-stack-portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\k9lil\\Desktop\\Github\\full-stack-portfolio\\react-front-end\\src\\components\\BasicParticles.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:react-front-end\\src\\components\\BasicParticles.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\k9lil\\Desktop\\Github\\full-stack-portfolio\\react-front-end\\src\\pages\\ParticleBackground.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:react-front-end\\src\\pages\\ParticleBackground.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\k9lil\\Desktop\\Github\\full-stack-portfolio\\react-front-end\\src\\pages\\Home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:react-front-end\\src\\pages\\Home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\k9lil\\Desktop\\Github\\full-stack-portfolio\\react-front-end\\src\\pages\\Home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:react-front-end\\src\\pages\\Home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\k9lil\\Desktop\\Github\\full-stack-portfolio\\react-front-end\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:react-front-end\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\k9lil\\Desktop\\Github\\full-stack-portfolio\\node-back-end\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:node-back-end\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\k9lil\\Desktop\\Github\\full-stack-portfolio\\react-front-end\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:react-front-end\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\k9lil\\Desktop\\Github\\full-stack-portfolio\\node-back-end\\index.js",
+              "RelativeDocumentMoniker": "node-back-end\\index.js",
+              "ToolTip": "C:\\Users\\k9lil\\Desktop\\Github\\full-stack-portfolio\\node-back-end\\index.js",
+              "RelativeToolTip": "node-back-end\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-27T08:10:29.324Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasicParticles.jsx",
+              "DocumentMoniker": "C:\\Users\\k9lil\\Desktop\\Github\\full-stack-portfolio\\react-front-end\\src\\components\\BasicParticles.jsx",
+              "RelativeDocumentMoniker": "react-front-end\\src\\components\\BasicParticles.jsx",
+              "ToolTip": "C:\\Users\\k9lil\\Desktop\\Github\\full-stack-portfolio\\react-front-end\\src\\components\\BasicParticles.jsx",
+              "RelativeToolTip": "react-front-end\\src\\components\\BasicParticles.jsx",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-28T21:08:21.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParticleBackground.jsx",
+              "DocumentMoniker": "C:\\Users\\k9lil\\Desktop\\Github\\full-stack-portfolio\\react-front-end\\src\\pages\\ParticleBackground.jsx",
+              "RelativeDocumentMoniker": "react-front-end\\src\\pages\\ParticleBackground.jsx",
+              "ToolTip": "C:\\Users\\k9lil\\Desktop\\Github\\full-stack-portfolio\\react-front-end\\src\\pages\\ParticleBackground.jsx",
+              "RelativeToolTip": "react-front-end\\src\\pages\\ParticleBackground.jsx",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-27T20:17:16.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.css",
+              "DocumentMoniker": "C:\\Users\\k9lil\\Desktop\\Github\\full-stack-portfolio\\react-front-end\\src\\pages\\Home.css",
+              "RelativeDocumentMoniker": "react-front-end\\src\\pages\\Home.css",
+              "ToolTip": "C:\\Users\\k9lil\\Desktop\\Github\\full-stack-portfolio\\react-front-end\\src\\pages\\Home.css",
+              "RelativeToolTip": "react-front-end\\src\\pages\\Home.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-27T20:21:11.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.jsx",
+              "DocumentMoniker": "C:\\Users\\k9lil\\Desktop\\Github\\full-stack-portfolio\\react-front-end\\src\\pages\\Home.jsx",
+              "RelativeDocumentMoniker": "react-front-end\\src\\pages\\Home.jsx",
+              "ToolTip": "C:\\Users\\k9lil\\Desktop\\Github\\full-stack-portfolio\\react-front-end\\src\\pages\\Home.jsx",
+              "RelativeToolTip": "react-front-end\\src\\pages\\Home.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-27T07:48:54.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\k9lil\\Desktop\\Github\\full-stack-portfolio\\react-front-end\\src\\App.jsx",
+              "RelativeDocumentMoniker": "react-front-end\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\k9lil\\Desktop\\Github\\full-stack-portfolio\\react-front-end\\src\\App.jsx",
+              "RelativeToolTip": "react-front-end\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-27T05:26:33.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\k9lil\\Desktop\\Github\\full-stack-portfolio\\react-front-end\\src\\main.jsx",
+              "RelativeDocumentMoniker": "react-front-end\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\k9lil\\Desktop\\Github\\full-stack-portfolio\\react-front-end\\src\\main.jsx",
+              "RelativeToolTip": "react-front-end\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-27T05:17:28.214Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\k9lil\\Desktop\\Full-Stack-Enviroment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\k9lil\\Desktop\\Full-Stack-Enviroment\\react-front-end\\src\\components\\UserList.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:react-front-end\\src\\components\\UserList.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\k9lil\\Desktop\\Full-Stack-Enviroment\\react-front-end\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:react-front-end\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\k9lil\\Desktop\\Full-Stack-Enviroment\\node-back-end\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:node-back-end\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\k9lil\\Desktop\\Full-Stack-Enviroment\\node-back-end\\db.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:node-back-end\\db.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\k9lil\\Desktop\\Full-Stack-Enviroment\\react-front-end\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:react-front-end\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\k9lil\\Desktop\\Full-Stack-Enviroment\\node-back-end\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:node-back-end\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\k9lil\\Desktop\\Full-Stack-Enviroment\\react-front-end\\vite.config.js",
+              "RelativeDocumentMoniker": "react-front-end\\vite.config.js",
+              "ToolTip": "C:\\Users\\k9lil\\Desktop\\Full-Stack-Enviroment\\react-front-end\\vite.config.js",
+              "RelativeToolTip": "react-front-end\\vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-26T22:13:09.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\k9lil\\Desktop\\Full-Stack-Enviroment\\react-front-end\\src\\App.jsx",
+              "RelativeDocumentMoniker": "react-front-end\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\k9lil\\Desktop\\Full-Stack-Enviroment\\react-front-end\\src\\App.jsx",
+              "RelativeToolTip": "react-front-end\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-26T22:03:07.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserList.jsx",
+              "DocumentMoniker": "C:\\Users\\k9lil\\Desktop\\Full-Stack-Enviroment\\react-front-end\\src\\components\\UserList.jsx",
+              "RelativeDocumentMoniker": "react-front-end\\src\\components\\UserList.jsx",
+              "ToolTip": "C:\\Users\\k9lil\\Desktop\\Full-Stack-Enviroment\\react-front-end\\src\\components\\UserList.jsx",
+              "RelativeToolTip": "react-front-end\\src\\components\\UserList.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-26T22:01:10.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\k9lil\\Desktop\\Full-Stack-Enviroment\\node-back-end\\index.js",
+              "RelativeDocumentMoniker": "node-back-end\\index.js",
+              "ToolTip": "C:\\Users\\k9lil\\Desktop\\Full-Stack-Enviroment\\node-back-end\\index.js",
+              "RelativeToolTip": "node-back-end\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-26T21:29:18.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "db.js",
+              "DocumentMoniker": "C:\\Users\\k9lil\\Desktop\\Full-Stack-Enviroment\\node-back-end\\db.js",
+              "RelativeDocumentMoniker": "node-back-end\\db.js",
+              "ToolTip": "C:\\Users\\k9lil\\Desktop\\Full-Stack-Enviroment\\node-back-end\\db.js",
+              "RelativeToolTip": "node-back-end\\db.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-26T21:27:36.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\k9lil\\Desktop\\Full-Stack-Enviroment\\node-back-end\\.env",
+              "RelativeDocumentMoniker": "node-back-end\\.env",
+              "ToolTip": "C:\\Users\\k9lil\\Desktop\\Full-Stack-Enviroment\\node-back-end\\.env",
+              "RelativeToolTip": "node-back-end\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-26T21:24:43.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
