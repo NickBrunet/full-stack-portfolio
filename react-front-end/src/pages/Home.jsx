@@ -11,6 +11,7 @@ export default function Home() {
                     <span className="cursor">|</span>
                 </h1>
                 <p className="description">
+                    I'm a software development student with experience in Python, JavaScript, C#, Java, React, Node.js, and PostgreSQL. I enjoy breaking down complex problems and building clean, effective solutions. This site highlights my work, technical skills, and passion for collaborative development.
                 </p>
             </div>
         </div>

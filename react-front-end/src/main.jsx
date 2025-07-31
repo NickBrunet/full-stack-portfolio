@@ -4,7 +4,7 @@ import { HashRouter } from 'react-router-dom';
 import App from './App.jsx';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-    <HashRouter basename="/full-stack-portfolio">
+    <HashRouter>
         <App />
     </HashRouter>
 );
