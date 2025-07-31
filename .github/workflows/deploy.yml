@@ -13,24 +13,21 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Setup Node
+      - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 18
-          cache: npm
 
-      - name: Install frontend dependencies
-        run: |
-          cd react-front-end
-          npm ci
+      - name: Install dependencies
+        run: npm install
+        working-directory: ./react-front-end
 
-      - name: Build frontend
-        run: |
-          cd react-front-end
-          npm run build
+      - name: Build project
+        run: npm run build
+        working-directory: ./react-front-end
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.GH_PAT }}
           publish_dir: ./react-front-end/dist

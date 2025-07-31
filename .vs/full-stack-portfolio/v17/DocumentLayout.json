@@ -55,8 +55,7 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-07-27T08:10:29.324Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -66,7 +65,7 @@
               "RelativeDocumentMoniker": ".github\\workflows\\deploy.yml",
               "ToolTip": "C:\\Users\\k9lil\\Desktop\\Github\\full-stack-portfolio\\.github\\workflows\\deploy.yml",
               "RelativeToolTip": ".github\\workflows\\deploy.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2025-07-31T20:02:45.787Z",
               "EditorCaption": ""
@@ -81,8 +80,7 @@
               "RelativeToolTip": "react-front-end\\package.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-31T19:45:25.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T19:45:25.584Z"
             },
             {
               "$type": "Document",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "react-front-end\\src\\main.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-07-31T19:44:49.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T19:44:49.772Z"
             },
             {
               "$type": "Document",
@@ -107,8 +104,7 @@
               "RelativeToolTip": "react-front-end\\vite.config.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-31T19:44:20.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T19:44:20.648Z"
             },
             {
               "$type": "Document",
@@ -120,8 +116,7 @@
               "RelativeToolTip": "react-front-end\\src\\components\\BasicParticles.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-07-31T18:59:05.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T18:59:05.668Z"
             },
             {
               "$type": "Document",
@@ -133,8 +128,7 @@
               "RelativeToolTip": "react-front-end\\src\\pages\\Home.css",
               "ViewState": "AgIAACEAAAAAAAAAAAAwwD0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-27T20:21:11.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T20:21:11.485Z"
             },
             {
               "$type": "Document",
@@ -146,8 +140,7 @@
               "RelativeToolTip": "react-front-end\\src\\pages\\Home.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-07-27T07:48:54.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T07:48:54.303Z"
             }
           ]
         }
