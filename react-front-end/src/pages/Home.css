@@ -19,11 +19,10 @@
 
 .typed-name {
     color: black;
-    font-size: clamp(2rem, 6vw, 5vw);
+    font-size: 4rem;
     white-space: nowrap;
     overflow: hidden;
     display: inline-block;
-    border-right: none;
     position: relative;
 }
 
@@ -40,43 +39,26 @@
     animation: blink 0.8s step-start infinite;
     font-weight: bold;
     margin-left: 2px;
-    font-size: clamp(2rem, 6vw, 5vw);
+    font-size: 4rem;
     font-family: 'Courier New', monospace;
     color: black;
-    vertical-align: text-bottom;
+    vertical-align: bottom;
     position: relative;
     top: -0.3em;
     left: -0.2em;
 }
 
+/* Description starts invisible and slides up */
 .description {
     color: black;
-    margin-top: 1.5rem;
+    margin-top: 2rem;
     opacity: 0;
     transform: translateY(40px);
     animation: slideUp 1s ease-out 3s forwards;
-    font-size: clamp(1rem, 2.5vw, 1.5rem);
+    font-size: 1.5rem;
     max-width: 60ch;
     line-height: 1.6;
     padding: 0 1rem;
-}
-
-/* Mobile-specific adjustments */
-@media (max-width: 600px) {
-    .typed-name {
-        font-size: 2.8rem;
-    }
-
-    .cursor {
-        font-size: 2.8rem;
-    }
-
-    .description {
-        font-size: 1.1rem;
-        max-width: 30ch;
-        line-height: 1.4;
-        margin-top: 2rem;
-    }
 }
 
 /* animations */
@@ -104,5 +86,23 @@
     to {
         opacity: 1;
         transform: translateY(0);
+    }
+}
+
+/* 🔍 Stronger mobile overrides */
+@media (max-width: 600px) {
+    .typed-name {
+        font-size: 7vw;
+    }
+
+    .cursor {
+        font-size: 7vw;
+    }
+
+    .description {
+        font-size: 1.25rem;
+        max-width: 90vw;
+        line-height: 1.4;
+        margin-top: 2rem;
     }
 }
