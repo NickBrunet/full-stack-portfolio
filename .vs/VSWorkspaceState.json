@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
+    "\\.github\\workflows",
     "\\node-back-end",
     "\\react-front-end",
     "\\react-front-end\\public",
@@ -9,6 +11,6 @@
     "\\react-front-end\\src\\images",
     "\\react-front-end\\src\\pages"
   ],
-  "SelectedNode": "\\react-front-end\\package.json",
+  "SelectedNode": "\\.github\\workflows\\deploy.yml",
   "PreviewInSolutionExplorer": false
 }
