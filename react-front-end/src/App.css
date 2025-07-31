@@ -39,4 +39,9 @@
                 background-color: rgba(128, 128, 128, 0.2)
             }
 
-
+@media (max-width: 600px) {
+    .navbar nav{
+        font-size: 1rem;
+        gap: 1rem;
+    }
+}
