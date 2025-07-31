@@ -1,25 +1,31 @@
 // src/App.jsx
 import React from 'react';
 import { NavLink, Routes, Route } from 'react-router-dom';
-import Home from './pages/Home.jsx';
-// import other pages as you create them
+import Home from './pages/Home';
+import PersonalProjects from './pages/PersonalProjects';
+import ProfessionalProjects from './pages/ProfessionalProjects';
+import AboutMe from './pages/AboutMe';
+import BasicParticles from './components/BasicParticles.jsx';
+import './App.css';
 
 export default function App() {
     return (
-        <div>
-            <header>
-                <nav>
-                    <NavLink to="/" end className={({ isActive }) => (isActive ? 'active' : '')}>
-                        Home
-                    </NavLink>
-                    {/* add more NavLinks for other pages */}
+        <div className="app-container">
+            <BasicParticles />
+            <header className="navbar">
+                <nav className="nav-links">
+                    <NavLink to="/" end>Home</NavLink>
+                    <NavLink to="/personal-projects">Personal Projects</NavLink>
+                    <NavLink to="/professional-projects">Professional Projects</NavLink>
+                    <NavLink to="/about-me">About Me</NavLink>
                 </nav>
             </header>
 
-            {/* Define your route-to-component mapping */}
             <Routes>
                 <Route path="/" element={<Home />} />
-                {/* add more Route elements for other pages */}
+                <Route path="/personal-projects" element={<PersonalProjects />} />
+                <Route path="/professional-projects" element={<ProfessionalProjects />} />
+                <Route path="/about-me" element={<AboutMe />} />
             </Routes>
         </div>
     );

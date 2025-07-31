@@ -1,42 +1,42 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+﻿
+.app-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+.navbar {
+    background-color: transparent;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    width: 75%;
+    padding: 0.25rem 0rem;
+    border-bottom: solid lightgray;
 }
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+    .navbar nav {
+        display: flex;
+        justify-content: center; /* center the nav items */
+        align-items: center;
+        gap: 4rem; /* space between items */
+        font-family: 'Courier New', monospace;
+        font-size: 2em;
+    }
 
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
-}
+        .navbar nav a {
+            text-decoration: none;
+            color: black;
+            font-weight: normal;
+            transition: opacity 0.3s ease;
+            padding: 0.5rem;
+            border-radius: 0.25rem;
+        }
 
-.card {
-  padding: 2em;
-}
+            .navbar nav a:hover,
+            .navbar nav a.active {
+                opacity: 0.7;
+                background-color: rgba(128, 128, 128, 0.2)
+            }
 
-.read-the-docs {
-  color: #888;
-}
+
