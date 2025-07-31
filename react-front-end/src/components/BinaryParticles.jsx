@@ -1,6 +1,8 @@
-﻿import { useCallback } from "react";
+import { useCallback } from "react";
 import Particles from "react-tsparticles";
 import { loadFull } from "tsparticles";
+import binary0 from "../images/binary_0.png";
+import binary1 from "../images/binary_1.png";
 
 export default function BasicParticles() {
     const particlesInit = useCallback(async (engine) => {
@@ -42,40 +44,66 @@ export default function BasicParticles() {
             init={particlesInit}
             options={{
                 fullScreen: { enable: true },
+                background: {
+                    color: "#000000"
+                },
                 emitters: [
                     {
-                        position: { x: 101, y: 101 },
+                        position: { x: 25, y: 0 },
                         size: { width: 0, height: 0 },
-                        rate: { quantity: 4, delay: 0.3 },
+                        rate: { quantity: 1, delay: 0.1 },
                         direction: "center",
                     },
                     {
-                        position: { x: -1, y: -1 },
+                        position: { x: 75, y: 0 },
                         size: { width: 0, height: 0 },
-                        rate: { quantity: 4, delay: 0.3 },
+                        rate: { quantity: 1, delay: 0.1 },
                         direction: "center",
                     },
                 ],
                 particles: {
                     number: { value: 0 },
-                    shape: { type: ["circle", "square", "triangle", "polygon"] },
-                    size: { value: { min: 2, max: 5 } },
-                    opacity: { value: { min: 0.1, max: 0.2 } },
+                    shape: {
+                        type: "image", // Set the shape type to "image"
+                        options: {
+                            image: [
+                                {
+                                    src: binary0,
+                                    width: 100,
+                                    height: 150,
+                                    replaceColor: true,
+                                },
+                                {
+                                    src: binary1,
+                                    width: 100,
+                                    height: 150,
+                                    replaceColor: true,
+                                },
+                            ]
+                        },
+                    },
+                    size: { value: { min: 4, max: 8 } },
+                    opacity: { value: { min: 0.2, max: 0.6 } },
                     color: {
                         value: ["#000000"]
                     },
                     rotate: {
-                        enable: true,
-                        direction: "clockwise",
-                        animation: {
-                            enable: true,
-                            speed: 10,
-                            sync: false,
-                        },
+                        enable: false
                     },
                     move: {
                         enable: true,
+                        direction: "none",
+                        gravity: {
+                            enable: true,
+                            acceleration: 0.1, // you can tweak this (e.g., 0.5 for faster fall)
+                            maxSpeed: 1.5,
+                        },
                         speed: 1,
+                        angle: {
+                            value: 90,
+                            offset: 0
+                        },
+                        outModes: "destory"
                     },
                     collisions: {
                         enable: true,

@@ -6,8 +6,9 @@
     "\\react-front-end\\public",
     "\\react-front-end\\src",
     "\\react-front-end\\src\\components",
+    "\\react-front-end\\src\\images",
     "\\react-front-end\\src\\pages"
   ],
-  "SelectedNode": "\\react-front-end\\src\\pages\\Home.jsx",
+  "SelectedNode": "\\react-front-end\\package.json",
   "PreviewInSolutionExplorer": false
 }
