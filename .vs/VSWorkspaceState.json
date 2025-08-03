@@ -7,10 +7,8 @@
     "\\react-front-end",
     "\\react-front-end\\public",
     "\\react-front-end\\src",
-    "\\react-front-end\\src\\components",
-    "\\react-front-end\\src\\images",
-    "\\react-front-end\\src\\pages"
+    "\\react-front-end\\src\\components"
   ],
-  "SelectedNode": "\\react-front-end\\src\\pages\\Projects.jsx",
+  "SelectedNode": "\\react-front-end\\src\\components\\ProjectCard.css",
   "PreviewInSolutionExplorer": false
 }

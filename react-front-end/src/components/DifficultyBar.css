@@ -1,0 +1,26 @@
+/* src/components/DifficultyBar.css */
+.difficulty-bar {
+    display: flex;
+    gap: 4px;
+    margin-top: 0.5rem;
+}
+
+.square {
+    width: 20px;
+    height: 20px;
+    border-radius: 3px;
+    background-color: rgb(175, 175, 175);
+    transition: background-color 0.3s ease;
+}
+
+    .square.green {
+        background-color: limegreen;
+    }
+
+    .square.yellow {
+        background-color: rgb(245, 255, 111);
+    }
+
+    .square.red {
+        background-color: #f44336;
+    }

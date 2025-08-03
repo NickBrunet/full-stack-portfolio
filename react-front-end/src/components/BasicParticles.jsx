@@ -11,7 +11,7 @@ export default function BasicParticles() {
                 init: () => { },
                 isEnabled: () => true,
                 update: (particle) => {
-                    const maxSize = 20;
+                    const maxSize = 15;
                     const fadeDuration = 2000; // ms
 
                     if (particle.size.value > maxSize) {
@@ -46,20 +46,20 @@ export default function BasicParticles() {
                     {
                         position: { x: 101, y: 101 },
                         size: { width: 0, height: 0 },
-                        rate: { quantity: 4, delay: 0.3 },
+                        rate: { quantity: 4, delay: 0.4 },
                         direction: "center",
                     },
                     {
                         position: { x: -1, y: -1 },
                         size: { width: 0, height: 0 },
-                        rate: { quantity: 4, delay: 0.3 },
+                        rate: { quantity: 4, delay: 0.4 },
                         direction: "center",
                     },
                 ],
                 particles: {
                     number: { value: 0 },
                     shape: { type: ["circle", "square", "triangle", "polygon"] },
-                    size: { value: { min: 2, max: 5 } },
+                    size: { value: { min: 2, max: 3 } },
                     opacity: { value: { min: 0.1, max: 0.2 } },
                     color: {
                         value: ["#000000"]
